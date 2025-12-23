@@ -145,13 +145,13 @@ http://localhost:8501
 ## 📸 Screenshots
 
 ### Streamlit App – Image Upload
-![Input](https://raw.githubusercontent.com/Sneha859/Skin-Lesion-Classification/main/screenshots/streamlit_input.png)
+![Input](screenshots/streamlit_input.png)
 
 ### Streamlit App – Prediction Output
-![Output](https://raw.githubusercontent.com/Sneha859/Skin-Lesion-Classification/main/screenshots/streamlit_output.png)
+![Output](screenshots/streamlit_output.png)
 
 ### Model Training History
-![Training](https://raw.githubusercontent.com/Sneha859/Skin-Lesion-Classification/main/screenshots/training_history.png)
+![Training](screenshots/training_history.png)
 
 
 🧪 Sample Prediction
