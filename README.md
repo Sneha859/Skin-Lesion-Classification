@@ -108,7 +108,7 @@ checkpoints/efficientnet_b4_final.h5
 
 Training plots are saved in
 results/training_history.png
-
+```
 
 
 📊 Model Performance
