@@ -1,0 +1,6 @@
+[project]
+name = "skin_lesion_classification"
+version = "1.0.0"
+
+[tool.setuptools]
+packages = ["src"]

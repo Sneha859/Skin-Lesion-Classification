@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+tensorflow-intel==2.15.0
+
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+albumentations
+tqdm
+pillow
+scipy
+efficientnet

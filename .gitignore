@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Dataset
+data/
+dataset/
+
+# Training outputs
+results/
+
+# Python cache & build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+skin_lesion_classification.egg-info/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
