@@ -154,6 +154,7 @@ http://localhost:8501
 ![Training](screenshots/training_history.png)
 
 
+
 🧪 Sample Prediction
 Predicted: nv
 Probability: 0.42
