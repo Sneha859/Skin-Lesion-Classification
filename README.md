@@ -142,16 +142,16 @@ Then open in browser:
 http://localhost:8501
 
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 ### Streamlit App – Image Upload
-![Input](screenshots/streamlit_input.png)
+![Input](https://raw.githubusercontent.com/Sneha859/Skin-Lesion-Classification/main/screenshots/streamlit_input.png)
 
 ### Streamlit App – Prediction Output
-![Output](screenshots/streamlit_output.png)
+![Output](https://raw.githubusercontent.com/Sneha859/Skin-Lesion-Classification/main/screenshots/streamlit_output.png)
 
 ### Model Training History
-![Training](screenshots/training_history.png)
+![Training](https://raw.githubusercontent.com/Sneha859/Skin-Lesion-Classification/main/screenshots/training_history.png)
 
 
 🧪 Sample Prediction
