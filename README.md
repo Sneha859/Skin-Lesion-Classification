@@ -150,8 +150,7 @@ http://localhost:8501
 ### Streamlit App – Prediction Output
 ![Output](screenshots/streamlit_output.png)
 
-### Model Training History
-![Training](screenshots/training_history.png)
+
 
 
 
@@ -182,6 +181,6 @@ CUDA, cuDNN (GPU support)
 This project is for educational and research purposes only and should not be used for medical diagnosis.
 
 
-🙋‍♀️ Author
+Author
 Sneha Sivakumar
-MCA | Machine Learning & Deep Learning
+Thaneem Kausar
